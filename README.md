@@ -11,3 +11,11 @@ circle and displays the value of area and circumference from the main()
 
 2.Problem_002-> Write a C++ program to illustreate the operator overloading concept using matrix addition
 as an example.
+
+3.Problem_003-> Write a C++ program to illustrate virtual function implementation
+
+4.Problem_004-> Write a C++ program to illustrate exception handling concept using stack operation 
+as an example
+
+5.Problem_005-> Write a c++ program to illustrate dynamic polymorphisam using different
+shapes as an example
